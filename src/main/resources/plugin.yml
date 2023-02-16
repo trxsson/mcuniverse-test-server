@@ -1,0 +1,8 @@
+name: TestServer
+main: dev.trxsson.test.TestServer
+version: 1.0.0
+commands:
+  out:
+    description: Output command args translated by MiniMessage
+  playerlist:
+    description: Set personal player list name using MiniMessage format
