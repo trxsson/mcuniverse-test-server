@@ -1,7 +1,7 @@
 # MCUniverse.net custom character list
 ## Tags
 ### Ranks
-All characters ranging from `\uE000` ot `\uE020` are reserved for rank tags.
+All characters ranging from `\uE000` to `\uE020` are reserved for rank tags.
 - `\uE000` - Player <img src="icons/player_FHD.png" height="14"/>
 - `\uE001` - VIP <img src="icons/vip_FHD.png" height="14"/>
 - `\uE002` - Legend <img src="icons/legend_FHD.png" height="14"/>
